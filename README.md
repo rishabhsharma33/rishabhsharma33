@@ -1,23 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishabh Sharma
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
+<h3 align="center">UI/UX Designer and Web Developer from India</h3>
 
-UI/UX Designer and Web Developer
---------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsharma33&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsharma33" /> </p>
 
-I don't just design; I create web wonders
+- 🌱 I’m currently learning **React**
 
-*   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [MyPortfolio](http://rishabh-sharmas-portfolio.webflow.io/)
-*   ✉️  You can contact me at [rishabh.s2203@outlook.com](mailto:rishabh.s2203@outlook.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  Truth is, I am Iron Man.
+- 👨‍💻 All of my projects are available at [https://rishabh-sharmas-portfolio.webflow.io/](https://rishabh-sharmas-portfolio.webflow.io/)
+
+- 💬 Ask me about **UI/UX Design, Figma or Acting Tips**
+
+- 📫 How to reach me **rishabh.s2203@outlook.com**
+
+- ⚡ Fun fact **Truth is, I am Iron Man.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-sharma-3a63841b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-sharma-3a63841b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/luvvv_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luvvv_33" height="30" width="40" /></a>
 <a href="https://www.behance.net/rishabhsharma125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishabhsharma125" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/luvvv_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luvvv_33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
