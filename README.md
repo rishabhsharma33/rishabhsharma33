@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://rishabh-sharmas-portfolio.webflow.io/](https://rishabh-sharmas-portfolio.webflow.io/)
+- 👨‍💻 My portfolio is available at [https://rishabh-sharmas-portfolio.webflow.io/](https://rishabh-sharmas-portfolio.webflow.io/)
 
 - 💬 Ask me about **UI/UX Design, Figma or Acting Tips**
 
 - 📫 How to reach me **rishabh.s2203@outlook.com**
 
-- ⚡ Fun fact **Truth is, I am Iron Man.**
+- ⚡ **Truth is, I am Iron Man.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
