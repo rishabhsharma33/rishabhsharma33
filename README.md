@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at [https://rishabh-sharmas-portfolio.webflow.io/](https://rishabh-sharmas-portfolio.webflow.io/)
 
-- 💬 Ask me about **UI/UX Design, Figma or Acting Tips**
+- 💬 Ask me about **Web Development, UI/UX Design, or Acting Tips**
 
 - 📫 How to reach me **rishabh.s2203@outlook.com**
 
