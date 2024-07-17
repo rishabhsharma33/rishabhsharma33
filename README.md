@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
-<h3 align="center">UI/UX Designer and Web Developer from India</h3>
+<h3 align="center">Web Developer and UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsharma33&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsharma33" /> </p>
 
