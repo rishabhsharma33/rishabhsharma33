@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My portfolio is available at [https://rishabh-sharmas-portfolio.webflow.io/](https://rishabh-sharmas-portfolio.webflow.io/)
+- 👨‍💻 My [LeetCode](https://leetcode.com/rishabhrrd4)
 
 - 💬 Ask me about **Java, DSA, FrontEnd Development, UI/UX Design, or Acting Tips**
 
