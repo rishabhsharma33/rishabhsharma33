@@ -15,23 +15,17 @@
 ---
 
 ## 🚀 About Me
-- 🚀 Building backend systems (**Clinic OS, Video Platform**)
+- 🚀 Building full-stack systems (**Clinic OS, Video Platform**)
 - 🌱 Learning: **Java, Spring Boot, React Native**
 - ⚡ Interested in **scalable system design**
-
----
-
-## 🧠 Focus Areas
-- Web Development  
-- App Development  
-- Backend Development  
+- 💡 Focused on building production-ready systems, not just projects
 
 ---
 
 ## 🚀 Featured Work
 
-- 🏥 **Clinic OS** – Healthcare management system (appointments, patient records)
-- 🎥 **Video Platform Backend** – Auth, uploads, scalable APIs
+- 🏥 **Clinic OS** – Appointment & patient management system with scalable backend workflows  
+- 🎥 **Video Platform Backend** – Authentication, video uploads, and scalable API architecture  
 
 ---
 
