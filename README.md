@@ -4,7 +4,7 @@
   I'm Rishabh Sharma
 </h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer • Full Stack • Building Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhsharma33&label=Profile%20views&color=00FFFF&style=flat-square" />
@@ -14,9 +14,10 @@
 
 ---
 
-## 📌 About Me
-- 🌱 Currently learning **Java, Spring Boot, React Native**
-- ⚡ Interested in **Backend + Scalable Systems**
+## 🚀 About Me
+- 🚀 Building backend systems (**Clinic OS, Video Platform**)
+- 🌱 Learning: **Java, Spring Boot, React Native**
+- ⚡ Interested in **scalable system design**
 
 ---
 
@@ -24,6 +25,13 @@
 - Web Development  
 - App Development  
 - Backend Development  
+
+---
+
+## 🚀 Featured Work
+
+- 🏥 **Clinic OS** – Healthcare management system (appointments, patient records)
+- 🎥 **Video Platform Backend** – Auth, uploads, scalable APIs
 
 ---
 
@@ -96,7 +104,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishabhsharma33/rishabhsharma33/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rishabhsharma33/rishabhsharma33/output/github-contribution-grid-snake.svg?nocache=1" />
 </p>
 
 ---
