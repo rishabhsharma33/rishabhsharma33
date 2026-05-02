@@ -60,9 +60,17 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
+<p align="center">
+  <sub>Responsive UI • Component-Based Architecture • API Integration • Performance Optimization</sub>
+</p>
+
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+</p>
+
+<p align="center">
+  <sub>REST APIs • Authentication • File Uploads • Scalable Architecture</sub>
 </p>
 
 ### Database
